@@ -1,1 +1,1 @@
-![profile cover](https://github.com/btrsco/btrsco/blob/main/cover.png?raw=true)
+[![profile cover](https://github.com/btrsco/btrsco/blob/main/cover.png?raw=true)](https://batres.co)
